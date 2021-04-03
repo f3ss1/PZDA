@@ -1,0 +1,178 @@
+\documentclass[14pt]{extarticle}
+\usepackage[utf8]{inputenc}
+\usepackage[english, russian]{babel}
+\usepackage{latexsym,amsfonts,amssymb,amsthm,amsmath,graphicx,array,tabularx,tabulary,booktabs,longtable,multirow,wrapfig, longtable}
+\usepackage{xcolor}
+\linespread{1.3}
+
+
+
+\renewcommand{\labelenumi}{\arabic{enumi}.}
+\renewcommand{\labelenumii}{\arabic{enumi}.\arabic{enumii}}
+
+
+\DeclareMathOperator{\sgn}{\mathop{sgn}}
+
+\newcommand*{\hm}[1]{#1\nobreak\discretionary{}
+	{\hbox{$\mathsurround=0pt #1$}}{}}
+
+
+\setlength\fboxsep{3pt}
+\setlength\fboxrule{1pt} 
+
+
+
+\usepackage{geometry} 
+\geometry{top=25mm}
+\geometry{bottom=35mm}
+\geometry{left=15mm}
+\geometry{right=15mm}
+
+\newread\tmp
+
+\newcommand{\quickcharcount}[1]{%
+	\immediate\write18{texcount -1 -sum -merge -char #1.tex > #1-chars.sum}%
+	\openin\tmp=#1-chars.sum%
+	\read\tmp to \thechar%
+	\closein\tmp%
+}
+
+\newcommand{\quickwordcount}[1]{%
+	\immediate\write18{texcount -1 -sum -merge #1.tex > #1-words.sum}%
+	\openin\tmp=#1-words.sum%
+	\read\tmp to \theword%
+	\closein\tmp%
+}
+\usepackage{subfiles}
+\usepackage{indentfirst}
+\setlength{\oddsidemargin}{0in}
+\setlength{\textwidth}{6.5in}
+\setlength{\textheight}{8.4in}
+\setlength{\topmargin}{0in}
+\setlength{\headheight}{10pt}
+\setlength\parindent{24pt}
+
+\graphicspath{{Pictures/}}
+\DeclareGraphicsExtensions{.pdf,.png,.jpg}
+
+\usepackage{caption}
+\captionsetup{justification=raggedright,singlelinecheck=false}
+
+\usepackage[backend=biber, style=apa]{biblatex}
+
+
+\addbibresource{bible.bib}
+
+
+
+
+
+
+\begin{document}
+	
+	
+	\thispagestyle{empty} 
+	
+	\begin{center}
+		NATIONAL RESEARCH UNIVERSITY
+		\\
+		HIGHER SCHOOL OF ECONOMICS
+		\\
+		FACULTY OF SOCIAL SCIENCE
+		
+	\end{center}
+	\vspace{12ex}
+	
+	\begin{center}
+		\textbf{MEGA PAPER}\\
+		\vspace{2ex}
+		\textbf{PZDataAnalysis}\\
+		\vspace{2ex}
+		Political and Physical Science
+	\end{center}
+	
+	\vspace{5ex}
+	\begin{flushright}
+		\hspace{40ex}
+		Student\\
+		Anastasia Uspenskaya \\
+		Arina Puchkova \\
+		Sergey Zakharov\\
+		
+		\vspace{5ex}
+		Spasibo chto est'\\
+		Evgeniy Sokolov \\
+		
+		
+		
+	\end{flushright}
+	
+	\begin{center}
+		\vfill
+		Moscow, 2021
+	\end{center}
+	
+	\newpage
+	
+	
+	\tableofcontents
+	
+	
+	\section{1}
+	\subfile{TeX files/1.tex}
+	
+	\section{2}
+	\subfile{TeX files/2.tex}
+	
+	
+	\section{3} % Arina
+	\subfile{TeX files/3.tex}
+	
+	\section{4} % Arina
+	\subfile{TeX files/4.tex}
+	
+	\section{5}
+	\subfile{TeX files/5.tex}
+	
+	\section{6} % Arina
+	\subfile{TeX files/6.tex}
+	
+	\section{7}
+	\subfile{TeX files/7.tex}
+	
+	\section{8}
+	\subfile{TeX files/8.tex}
+	
+	\section{9}
+	\subfile{TeX files/9.tex}
+	
+	\section{10} % Arina
+	\subfile{TeX files/10.tex}
+	
+	\section{11}
+	\subfile{TeX files/11.tex}
+	
+	\section{12}
+	\subfile{TeX files/12.tex}
+	
+	\section{13}
+	\subfile{TeX files/13.tex}
+	
+	\section{14}
+	\subfile{TeX files/14.tex}
+	
+	\section{15} % Arina
+	\subfile{TeX files/15.tex}
+	
+	\section{16} 
+	\subfile{TeX files/16.tex}
+	
+	\section{17} % Arina
+	\subfile{TeX files/17.tex}
+	
+	\section{18} 
+	\subfile{TeX files/18.tex}
+	
+	\section{19} 
+	\subfile{TeX files/19.tex}
+\end{document}

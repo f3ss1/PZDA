@@ -1,0 +1,40 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {russian}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}1}{4}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}2}{4}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}3}{4}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}4}{4}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}5}{4}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6}6}{4}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7}7}{4}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8}8}{4}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9}9}{4}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10}10}{4}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {11}11}{4}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {12}12}{4}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {13}13}{4}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {14}14}{4}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {15}15}{4}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {16}16}{4}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {17}17}{4}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18}18}{4}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {19}19}{4}{}%
