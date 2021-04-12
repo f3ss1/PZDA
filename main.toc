@@ -3,38 +3,38 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1}1}{4}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}2}{4}{}%
+\contentsline {section}{\numberline {2}Как можно сделать перенос стиля более быстрым, если стилевое изображение известно и не будет меняться?}{5}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}3}{4}{}%
+\contentsline {section}{\numberline {3}3}{6}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}4}{4}{}%
+\contentsline {section}{\numberline {4}4}{7}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5}5}{4}{}%
+\contentsline {section}{\numberline {5}5}{8}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6}6}{4}{}%
+\contentsline {section}{\numberline {6}6}{9}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7}7}{4}{}%
+\contentsline {section}{\numberline {7}7}{10}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8}8}{4}{}%
+\contentsline {section}{\numberline {8}8}{11}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {9}9}{4}{}%
+\contentsline {section}{\numberline {9}9}{12}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {10}10}{4}{}%
+\contentsline {section}{\numberline {10}10}{13}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {11}11}{4}{}%
+\contentsline {section}{\numberline {11}11}{14}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {12}12}{4}{}%
+\contentsline {section}{\numberline {12}12}{15}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13}13}{4}{}%
+\contentsline {section}{\numberline {13}13}{16}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {14}14}{4}{}%
+\contentsline {section}{\numberline {14}14}{17}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15}15}{4}{}%
+\contentsline {section}{\numberline {15}15}{17}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {16}16}{4}{}%
+\contentsline {section}{\numberline {16}16}{18}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {17}17}{4}{}%
+\contentsline {section}{\numberline {17}17}{19}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {18}18}{4}{}%
+\contentsline {section}{\numberline {18}18}{20}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {19}19}{4}{}%
+\contentsline {section}{\numberline {19}19}{21}{}%

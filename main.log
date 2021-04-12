@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.9)  3 APR 2021 18:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.9)  12 APR 2021 19:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -989,36 +989,57 @@ Package biblatex Info: Reference segment=0 on input line 71.
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
- (./TeX files/1.tex) (./TeX files/2.tex) (./TeX files/3.tex)
-(./TeX files/4.tex) (./TeX files/5.tex) (./TeX files/6.tex) (./TeX files/7.tex)
-(./TeX files/8.tex) (./TeX files/9.tex) (./TeX files/10.tex)
-(./TeX files/11.tex) (./TeX files/12.tex) (./TeX files/13.tex)
-(./TeX files/14.tex) (./TeX files/15.tex) (./TeX files/16.tex)
-(./TeX files/17.tex) (./TeX files/18.tex) (./TeX files/19.tex) [3]
-Overfull \vbox (262.77399pt too high) has occurred while \output is active []
+ [3] (./TeX files/1.tex) [4]
+Overfull \hbox (18.0492pt too wide) in paragraph at lines 127--127
+[]\T2A/cmr/bx/n/20.74  ак мож-но сде-лать пе-ре-нос сти-л€ бо-лее быст-
+ []
 
+(./TeX files/2.tex
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 3.
 
-[4] (./main.aux)
+ (c:/texlive/2020/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
+
+(c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
+
+(c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)) [5] (./TeX files/3.tex) [6] (./TeX files/4.tex) [7] (./TeX files/5.tex) [8] 
+(./TeX files/6.tex)
+[9] (./TeX files/7.tex) [10] (./TeX files/8.tex) [11] (./TeX files/9.tex)
+[12] (./TeX files/10.tex) [13] (./TeX files/11.tex) [14] (./TeX files/12.tex)
+[15] (./TeX files/13.tex) [16] (./TeX files/14.tex) (./TeX files/15.tex)
+[17] (./TeX files/16.tex) [18] (./TeX files/17.tex) [19] (./TeX files/18.tex)
+[20] (./TeX files/19.tex) [21] (./main.aux)
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 14730 strings out of 479916
- 254250 string characters out of 5886648
- 1085124 words of memory out of 5000000
- 31058 multiletter control sequences out of 15000+600000
- 538639 words of font info for 34 fonts, out of 8000000 for 9000
+ 14772 strings out of 479916
+ 255044 string characters out of 5886648
+ 1086126 words of memory out of 5000000
+ 31084 multiletter control sequences out of 15000+600000
+ 541258 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,5n,74p,1129b,4875s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<c:/tex
-live/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2020/
-texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb><c:/texlive/2020/texmf-dist
-/fonts/type1/public/cm-super/sfrm1440.pfb>
-Output written on main.pdf (4 pages, 51022 bytes).
+live/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2020
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2020/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2020/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmsy10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-supe
+r/sfbx1440.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx2074
+.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb>
+Output written on main.pdf (21 pages, 114651 bytes).
 PDF statistics:
- 30 PDF objects out of 1000 (max. 8388607)
- 20 compressed objects within 1 object stream
+ 105 PDF objects out of 1000 (max. 8388607)
+ 73 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
