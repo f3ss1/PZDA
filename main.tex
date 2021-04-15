@@ -5,6 +5,21 @@
 \usepackage{xcolor}
 \linespread{1.3}
 
+\hypersetup{				% Гиперссылки
+	unicode=true,           % русские буквы в раздела PDF
+	pdftitle={Заголовок},   % Заголовок
+	pdfauthor={Автор},      % Автор
+	pdfsubject={Тема},      % Тема
+	pdfcreator={Создатель}, % Создатель
+	pdfproducer={Производитель}, % Производитель
+	pdfkeywords={keyword1} {key2} {key3}, % Ключевые слова
+	colorlinks=true,       	% false: ссылки в рамках; true: цветные ссылки
+	linkcolor=blue,          % внутренние ссылки
+	citecolor=blue,        % на библиографию
+	filecolor=magenta,      % на файлы
+	urlcolor=red           % на URL
+}
+
 
 
 \renewcommand{\labelenumi}{\arabic{enumi}.}
@@ -98,6 +113,7 @@
 		Anastasia Uspenskaya \\
 		Arina Puchkova \\
 		Sergey Zakharov\\
+		Igor Kolesnikov\\
 		
 		\vspace{5ex}
 		Spasibo chto est'\\
@@ -136,7 +152,7 @@
 	\input{TeX_files/4.tex}
 	
 	\newpage
-	\section{5} % S
+	\section{В чём состоит идея трюка репараметризации (reparametrization trick)?} % S
 	\input{TeX_files/5.tex}
 	
 	\newpage
@@ -144,17 +160,17 @@
 	\input{TeX_files/6.tex}
 	
 	\newpage
-	\section{7} % S
+	\section{Что такое затухание градиентов в GAN? Покажите это математически.} % S
 	\input{TeX_files/7.tex}
 	
 	\newpage
 	
-	\section{8} % S
+	\section{Запишите теорему о замене переменных для функции плотности распределения случайной величины. Что значит каждое обозначение в ней?} % S
 	\input{TeX_files/8.tex}
 	
 	\newpage
 	
-	\section{9} % S
+	\section{Запишите функцию преобразования для Real-NVP нормализационного потока. Как посчитать ее Якобиан? Как выглядит обратная функция?} % S
 	\input{TeX_files/9.tex}
 	
 	\newpage

@@ -11,40 +11,46 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3}Что в вариационном автокодировщике выдают кодировщик и декодировщик?}{8}{section.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1}кодировщик}{9}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.1}Кодировщик}{9}{subsection.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2}декодировщик}{9}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.2}Декодировщик}{9}{subsection.3.2}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4}4}{10}{section.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5}5}{11}{section.5}%
+\contentsline {section}{\numberline {5}В чём состоит идея трюка репараметризации (reparametrization trick)?}{11}{section.5}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {6}6}{12}{section.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7}7}{13}{section.7}%
+\contentsline {section}{\numberline {7}Что такое затухание градиентов в GAN? Покажите это математически.}{13}{section.7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8}8}{14}{section.8}%
+\contentsline {section}{\numberline {8}Запишите теорему о замене переменных для функции плотности распределения случайной величины. Что значит каждое обозначение в ней?}{15}{section.8}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {9}9}{15}{section.9}%
+\contentsline {section}{\numberline {9}Запишите функцию преобразования для Real-NVP нормализационного потока. Как посчитать ее Якобиан? Как выглядит обратная функция?}{16}{section.9}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {10}10}{16}{section.10}%
+\contentsline {subsection}{\numberline {9.1}Функция преобразования}{16}{subsection.9.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {11}11}{17}{section.11}%
+\contentsline {subsection}{\numberline {9.2}Якобиан}{16}{subsection.9.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {12}Что такое MuLaw-кодирование, для чего оно нужно и как оно вычисляется?}{18}{section.12}%
+\contentsline {subsection}{\numberline {9.3}Обратная функция}{17}{subsection.9.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13}13}{20}{section.13}%
+\contentsline {section}{\numberline {10}10}{18}{section.10}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {14}14}{21}{section.14}%
+\contentsline {section}{\numberline {11}11}{19}{section.11}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15}15}{21}{section.15}%
+\contentsline {section}{\numberline {12}Что такое MuLaw-кодирование, для чего оно нужно и как оно вычисляется?}{20}{section.12}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {16}Как устроены user-based рекомендации?}{22}{section.16}%
+\contentsline {section}{\numberline {13}13}{22}{section.13}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {17}17}{24}{section.17}%
+\contentsline {section}{\numberline {14}14}{23}{section.14}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {18}18}{25}{section.18}%
+\contentsline {section}{\numberline {15}15}{23}{section.15}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {19}Как обычно устроена рекомендательная система? Опишите шаги отбора кандидатов, ранжирования, переранжирования. Приведите примеры, как каждый из них может быть устроен}{26}{section.19}%
+\contentsline {section}{\numberline {16}Как устроены user-based рекомендации?}{24}{section.16}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {19.1}Отбор кандидатов}{26}{subsection.19.1}%
+\contentsline {section}{\numberline {17}17}{26}{section.17}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {18}18}{27}{section.18}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {19}Как обычно устроена рекомендательная система? Опишите шаги отбора кандидатов, ранжирования, переранжирования. Приведите примеры, как каждый из них может быть устроен}{28}{section.19}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {19.1}Отбор кандидатов}{28}{subsection.19.1}%

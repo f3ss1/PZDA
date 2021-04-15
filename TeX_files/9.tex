@@ -1,0 +1,51 @@
+Предпосылка: и $x$, и $z$ имеют размерность $D$.
+
+\subsection{Функция преобразования}
+
+\begin{equation}
+	z = f(x) = 
+		\begin{cases}
+			&z_{1:d} = x_{1:d}\\
+			&z_{d+1:D} = x_{d+1:D} \odot \exp[s(x_{1:d})] + t(x_{1:d}) 
+		\end{cases}
+\end{equation}
+
+Здесь:
+
+\begin{itemize}
+	\item $z_{1:d}$ --- первые $d$ компонент вектора $z$;
+	
+	\item $s(x_{1:d})$ и $t(x_{1:d})$ --- нейронные сети с $d$ входами и $(D-d)$ выходами;
+	
+	\item $\odot$ --- поэлементное умножение.
+\end{itemize}
+
+\subsection{Якобиан}
+
+Матрица первых производных нижнетреугольная и выглядит как-то так:
+
+\begin{equation}
+	\frac{\partial f(x)}{\partial x} = 
+	\begin{pmatrix}
+		\mathbb{I}_d & 0 \\
+		\dfrac{\partial z_{1:d}}{\partial x_{1:d}}& \text{diag}\{\exp[s(x_{1:d})]\}
+	\end{pmatrix}	
+\end{equation}
+
+Но нас интересует на сама матрица, а ее определитель, а он для нижнетреугольной матрицы записывается просто как:
+
+\begin{equation}
+	\left|\det \frac{\partial f(x)}{\partial x}\right| = \exp\left[\sum\limits_{j = d+1}^{d} s(x_{1:d})\right]
+\end{equation}
+
+\subsection{Обратная функция}
+
+Тут тривиально:
+
+\begin{equation}
+	x = f^{-1}(z) = 
+	\begin{cases}
+		&x_{1:d} = z_{1:d}\\
+		&x_{d+1:D} = [z_{d+1:D} - t(z_{1:d})] \odot \exp[-s(z_{1:d})]  
+	\end{cases}
+\end{equation}

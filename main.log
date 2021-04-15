@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.9)  14 APR 2021 00:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.9)  15 APR 2021 16:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -627,6 +627,9 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
+Package hyperref Info: Option `unicode' set `true' on input line 21.
+Package hyperref Info: Option `colorlinks' set `true' on input line 21.
+
 (c:/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
@@ -974,26 +977,26 @@ LaTeX Warning: Label `eq:1_styletloss' multiply defined.
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
  (c:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count433
@@ -1016,7 +1019,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 71.
+Package hyperref Info: Link coloring ON on input line 86.
 
 (c:/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -1029,9 +1032,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count439
 )
-LaTeX Info: Redefining \ref on input line 71.
-LaTeX Info: Redefining \pageref on input line 71.
-LaTeX Info: Redefining \nameref on input line 71.
+LaTeX Info: Redefining \ref on input line 86.
+LaTeX Info: Redefining \pageref on input line 86.
+LaTeX Info: Redefining \nameref on input line 86.
 
 (./main.out) (./main.out)
 \@outlinefile=\write4
@@ -1125,8 +1128,8 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (./main.bbl)
-Package biblatex Info: Reference section=0 on input line 71.
-Package biblatex Info: Reference segment=0 on input line 71.
+Package biblatex Info: Reference section=0 on input line 86.
+Package biblatex Info: Reference segment=0 on input line 86.
 [1
 
 {c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./main.toc
@@ -1149,63 +1152,103 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 6.
 
 (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [2])
+)
+Overfull \hbox (26.36545pt too wide) in paragraph at lines 20--20
+ [] [][][]\T2A/cmr/bx/n/14.4 В чјм со-сто-ит идея трю-ка ре-па-ра-мет-ри-за-ции
+ (reparametrization 
+ []
+
+
+Overfull \hbox (0.85722pt too wide) in paragraph at lines 26--26
+ \T2A/cmr/bx/n/14.4 но-сти рас-пре-де-ле-ния слу-чай-ной ве-ли-чи-ны. Что зна-ч
+ит каж- 
+ []
+
+[2])
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
- [3]
-(./TeX_files/1.tex
-<Pictures//1_contentnotation.jpg, id=150, 1284.8pt x 330.23375pt>
+ [3] (./TeX_files/1.tex
+<Pictures//1_contentnotation.jpg, id=174, 1284.8pt x 330.23375pt>
 File: Pictures//1_contentnotation.jpg Graphic file (type jpg)
 <use Pictures//1_contentnotation.jpg>
 Package pdftex.def Info: Pictures//1_contentnotation.jpg  used on input line 20
 .
 (pdftex.def)             Requested size: 328.82706pt x 84.51837pt.
  [4 <./Pictures//1_contentnotation.jpg>] [5]
-<Pictures//1_finalloss.jpg, id=172, 1284.8pt x 547.04375pt>
+<Pictures//1_finalloss.jpg, id=195, 1284.8pt x 547.04375pt>
 File: Pictures//1_finalloss.jpg Graphic file (type jpg)
 <use Pictures//1_finalloss.jpg>
 Package pdftex.def Info: Pictures//1_finalloss.jpg  used on input line 70.
 (pdftex.def)             Requested size: 328.82706pt x 140.00766pt.
-) [6 <./Pictures//1_finalloss.jpg>]
-Overfull \hbox (18.0492pt too wide) in paragraph at lines 127--127
+)
+[6 <./Pictures//1_finalloss.jpg>]
+Overfull \hbox (18.0492pt too wide) in paragraph at lines 143--143
 []\T2A/cmr/bx/n/20.74 Как мож-но сде-лать пе-ре-нос сти-ля бо-лее быст-
  []
 
 (./TeX_files/2.tex) [7] (./TeX_files/3.tex [8]) [9] (./TeX_files/4.tex)
-[10] (./TeX_files/5.tex) [11] (./TeX_files/6.tex) [12] (./TeX_files/7.tex)
-[13] (./TeX_files/8.tex) [14] (./TeX_files/9.tex) [15] (./TeX_files/10.tex)
-[16] (./TeX_files/11.tex) [17] (./TeX_files/12.tex
-<Pictures//12_trans.jpg, id=227, 901.3675pt x 592.2125pt>
+[10] (./TeX_files/5.tex
+<Pictures//5_reparameterization.png, id=221, 1673.50218pt x 816.80156pt>
+File: Pictures//5_reparameterization.png Graphic file (type png)
+<use Pictures//5_reparameterization.png>
+Package pdftex.def Info: Pictures//5_reparameterization.png  used on input line
+ 7.
+(pdftex.def)             Requested size: 469.75499pt x 229.27618pt.
+) [11 <./Pictures//5_reparameterization.png>]
+(./TeX_files/6.tex) [12]
+Overfull \hbox (3.81702pt too wide) in paragraph at lines 163--163
+[]\T2A/cmr/bx/n/20.74 Что та-кое за-ту-ха-ние гра-ди-ен-тов в GAN? По-
+ []
+
+(./TeX_files/7.tex
+<Pictures//7_problem.png, id=235, 1190.19656pt x 587.94656pt>
+File: Pictures//7_problem.png Graphic file (type png)
+<use Pictures//7_problem.png>
+Package pdftex.def Info: Pictures//7_problem.png  used on input line 22.
+(pdftex.def)             Requested size: 469.75499pt x 232.05243pt.
+) [13] [14 <./Pictures//7_problem.png>]
+Overfull \hbox (2.83716pt too wide) in paragraph at lines 168--168
+[]\T2A/cmr/bx/n/20.74 Запишите тео-ре-му о за-мене пе-ре-мен-ных для
+ []
+
+(./TeX_files/8.tex) [15]
+Overfull \hbox (21.91927pt too wide) in paragraph at lines 173--173
+[]\T2A/cmr/bx/n/20.74 Запишите функ-цию пре-об-ра-зо-ва-ния для Real-
+ []
+
+(./TeX_files/9.tex [16]) [17] (./TeX_files/10.tex) [18] (./TeX_files/11.tex)
+[19] (./TeX_files/12.tex
+<Pictures//12_trans.jpg, id=280, 901.3675pt x 592.2125pt>
 File: Pictures//12_trans.jpg Graphic file (type jpg)
 <use Pictures//12_trans.jpg>
 Package pdftex.def Info: Pictures//12_trans.jpg  used on input line 14.
 (pdftex.def)             Requested size: 328.82706pt x 216.0428pt.
- [18 <./Pictures//12_trans.jpg>]) [19] (./TeX_files/13.tex) [20] (./TeX_files/1
-4.tex) (./TeX_files/15.tex)
-[21] (./TeX_files/16.tex
-<Pictures//16_memory1.jpg, id=248, 1284.8pt x 909.3975pt>
+ [20 <./Pictures//12_trans.jpg>]) [21]
+(./TeX_files/13.tex) [22] (./TeX_files/14.tex) (./TeX_files/15.tex) [23]
+(./TeX_files/16.tex
+<Pictures//16_memory1.jpg, id=301, 1284.8pt x 909.3975pt>
 File: Pictures//16_memory1.jpg Graphic file (type jpg)
 <use Pictures//16_memory1.jpg>
 Package pdftex.def Info: Pictures//16_memory1.jpg  used on input line 13.
 (pdftex.def)             Requested size: 328.82706pt x 232.74669pt.
-<Pictures//16_memory2.jpg, id=249, 1211.52625pt x 1284.8pt>
+<Pictures//16_memory2.jpg, id=302, 1211.52625pt x 1284.8pt>
 File: Pictures//16_memory2.jpg Graphic file (type jpg)
 <use Pictures//16_memory2.jpg>
 Package pdftex.def Info: Pictures//16_memory2.jpg  used on input line 19.
 (pdftex.def)             Requested size: 328.82706pt x 348.70425pt.
-) [22 <./Pictures//16_memory1.jpg>] [23 <./Pictures//16_memory2.jpg>] (./TeX_fi
-les/17.tex) [24] (./TeX_files/18.tex) [25]
-Overfull \hbox (8.07948pt too wide) in paragraph at lines 205--205
+) [24 <./Pictures//16_memory1.jpg>] [25 <./Pictures//16_memory2.jpg>] (./TeX_fi
+les/17.tex) [26] (./TeX_files/18.tex) [27]
+Overfull \hbox (8.07948pt too wide) in paragraph at lines 221--221
 []\T2A/cmr/bx/n/20.74 Как обыч-но устро-е-на ре-ко-мен-да-тель-ная си-
  []
 
 
-Overfull \hbox (5.4577pt too wide) in paragraph at lines 205--205
+Overfull \hbox (5.4577pt too wide) in paragraph at lines 221--221
 \T2A/cmr/bx/n/20.74 ран-жи-ро-ва-ния, пе-ре-ран-жи-ро-ва-ния. При-ве-
  []
 
-(./TeX_files/19.tex [26]
+(./TeX_files/19.tex [28]
 Overfull \hbox (1.88553pt too wide) in paragraph at lines 14--15
 []\T2A/cmr/m/n/14.4 на ос-но-ве сход-ства: $\OML/cmm/m/it/14.4 p[]; q[]$ \T2A/c
 mr/m/n/14.4 - эм-бед-дин-ги (на-при-мер, из LFM). Ищем
@@ -1219,20 +1262,25 @@ Overfull \hbox (44.08885pt too wide) in paragraph at lines 14--15
 
 
 Overfull \hbox (55.17462pt too wide) in paragraph at lines 20--22
-[]\T2A/cmr/m/n/14.4 О ран-жи-ро-ва-нии смот-ри-те здесь []$https : / / develope
-rs . google . com / machine-[]learning /
+[]\T2A/cmr/m/n/14.4 О ран-жи-ро-ва-нии смот-ри-те здесь [][]$https : / / develo
+pers . google . com / machine-[]learning /
  []
 
 
 Overfull \hbox (25.24199pt too wide) in paragraph at lines 23--24
-[]\T2A/cmr/m/n/14.4 и здесь []$https : / / github . com / hse-[]ds / iad-[]appl
-ied-[]ds / blob / master / 2020 / lectures /
+[]\T2A/cmr/m/n/14.4 и здесь [][]$https : / / github . com / hse-[]ds / iad-[]ap
+plied-[]ds / blob / master / 2020 / lectures /
  []
 
-) [27] (./main.aux)
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: E27D7BE8D4118959989184483EB2EA5D;6202.
+) [29] (./main.aux)
 
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: 8E9DE6EF4D4B1492E105D6AE17C520E9;9705
+(rerunfilecheck)             After:  A5B9E2D18C161CC29BE087FF3699CE98;9705.
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -1241,29 +1289,31 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21481 strings out of 479916
- 351696 string characters out of 5886648
- 1191619 words of memory out of 5000000
- 37639 multiletter control sequences out of 15000+600000
- 543224 words of font info for 50 fonts, out of 8000000 for 9000
+ 21526 strings out of 479916
+ 352493 string characters out of 5886648
+ 1196702 words of memory out of 5000000
+ 37664 multiletter control sequences out of 15000+600000
+ 545701 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,6n,74p,1834b,4875s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,9n,74p,1834b,4875s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{c:/tex
 live/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<c:/texlive/2020
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2020/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2020/texmf-dist/fonts/
 type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmr10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmr12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
-10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.p
-fb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/tex
-live/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2020/
-texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb><c:/texlive/2020/texmf-dist
-/fonts/type1/public/cm-super/sfrm1440.pfb>
-Output written on main.pdf (27 pages, 620621 bytes).
+lic/amsfonts/cm/cmmi7.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmr10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
+2.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:
+/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb><c:/tex
+live/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2020/
+texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2020/texmf-dist
+/fonts/type1/public/cm-super/sfbx2074.pfb><c:/texlive/2020/texmf-dist/fonts/typ
+e1/public/cm-super/sfrm1440.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/
+cm-super/sfti1440.pfb>
+Output written on main.pdf (29 pages, 1976644 bytes).
 PDF statistics:
- 339 PDF objects out of 1000 (max. 8388607)
- 291 compressed objects within 3 object streams
- 63 named destinations out of 1000 (max. 500000)
- 218 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 400 PDF objects out of 1000 (max. 8388607)
+ 344 compressed objects within 4 object streams
+ 78 named destinations out of 1000 (max. 500000)
+ 252 words of extra memory for PDF output out of 10000 (max. 10000000)
 
