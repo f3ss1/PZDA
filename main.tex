@@ -2,8 +2,23 @@
 \usepackage[utf8]{inputenc}
 \usepackage[english, russian]{babel}
 \usepackage{latexsym,amsfonts,amssymb,amsthm,amsmath,graphicx,array,tabularx,tabulary,booktabs,longtable,multirow,wrapfig, longtable,float,hyperref}
-\usepackage{xcolor}
+\usepackage[dvipsnames]{xcolor}
 \linespread{1.3}
+
+\hypersetup{				% Гиперссылки
+	unicode=true,           % русские буквы в раздела PDF
+	pdftitle={Заголовок},   % Заголовок
+	pdfauthor={Автор},      % Автор
+	pdfsubject={Тема},      % Тема
+	pdfcreator={Создатель}, % Создатель
+	pdfproducer={Производитель}, % Производитель
+	pdfkeywords={keyword1} {key2} {key3}, % Ключевые слова
+	colorlinks=true,       	% false: ссылки в рамках; true: цветные ссылки
+	linkcolor=blue,          % внутренние ссылки
+	citecolor=blue,        % на библиографию
+	filecolor=magenta,      % на файлы
+	urlcolor=red           % на URL
+}
 
 
 
@@ -98,6 +113,7 @@
 		Anastasia Uspenskaya \\
 		Arina Puchkova \\
 		Sergey Zakharov\\
+		Igor Kolesnikov\\
 		
 		\vspace{5ex}
 		Spasibo chto est'\\
@@ -120,7 +136,7 @@
 	\newpage
 	
 	
-	\section{1} % S
+	\section{Опишите две компоненты, из которых состоит perceptual loss (стилевую и контентную). Как можно использовать этот функционал, чтобы делать перенос стиля?}
 	\input{TeX_files/1.tex}
 	
 	\newpage
@@ -128,80 +144,80 @@
 	\input{TeX_files/2.tex}
 	
 	\newpage
-	\section{3} % Arina
+	\section{Что в вариационном автокодировщике выдают кодировщик и декодировщик?} 
 	\input{TeX_files/3.tex}
 	
 	\newpage
-	\section{4} % Arina
+	\section{Как устроен функционал ошибки в вариационном автокодировщике? За что отвечает каждое из слагаемых?} % Arina
 	\input{TeX_files/4.tex}
 	
 	\newpage
-	\section{5} % S
+	\section{В чём состоит идея трюка репараметризации (reparametrization trick)?} % S
 	\input{TeX_files/5.tex}
 	
 	\newpage
-	\section{6} % Arina
+	\section{Запишите функцию потерь GAN. Как в ней обозначается дискриминатор и генератор? Как она используется при обучении (ищем минимум, максимум или как-то еще)?} % Arina
 	\input{TeX_files/6.tex}
 	
 	\newpage
-	\section{7} % S
+	\section{Что такое затухание градиентов в GAN? Покажите это математически.} % S
 	\input{TeX_files/7.tex}
 	
 	\newpage
 	
-	\section{8} % S
+	\section{Запишите теорему о замене переменных для функции плотности распределения случайной величины. Что значит каждое обозначение в ней?} % S
 	\input{TeX_files/8.tex}
 	
 	\newpage
 	
-	\section{9} % S
+	\section{Запишите функцию преобразования для Real-NVP нормализационного потока. Как посчитать ее Якобиан? Как выглядит обратная функция?} % S
 	\input{TeX_files/9.tex}
 	
 	\newpage
 	
-	\section{10} % Arina
+	\section{Что такое мел-спектрограмма? Как она получается из wav-файла?} % Arina
 	\input{TeX_files/10.tex}
 	
 	\newpage
 	
-	\section{11}
+	\section{Какие метрики качества ASR вы знаете? Как они вычисляются?}
 	\input{TeX_files/11.tex}
 	
 	\newpage
 	
-	\section{12}
+	\section{Что такое MuLaw-кодирование, для чего оно нужно и как оно вычисляется?}
 	\input{TeX_files/12.tex}
 	
 	\newpage
 	
-	\section{13}
+	\section{Как устроен WaveNet? Почему он медленно работает на этапе применения?}
 	\input{TeX_files/13.tex}
 	
 	\newpage
 	
-	\section{14}
+	\section{Что является обучающей выборкой в задаче рекомендаций? Что такое рейтинг? Приведите примеры, как он может задаваться.}
 	\input{TeX_files/14.tex}
 	
-	\section{15} % Arina
+	\section{Какие вы знаете метрики качества рекомендаций? Как можно измерить ошибку, если рейтинги вещественные? Если рейтинги — это классы? Как учесть, что нам важен порядок, в котором задаются объекты? Как устроена метрика nDCG?} % Arina
 	\input{TeX_files/15.tex}
 	
 	\newpage
 	
-	\section{16} 
+	\section{Как устроены user-based рекомендации?}  
 	\input{TeX_files/16.tex}
 	
 	\newpage
 	
-	\section{17} % Arina
+	\section{Что такое модель со скрытыми переменными (LFM)? Как в ней предсказывается рейтинг? Как устроен функционал, на который она обучается?} % Arina
 	\input{TeX_files/17.tex}
 	
 	\newpage
 	
-	\section{18} 
+	\section{Как устроена модель iALS?} 
 	\input{TeX_files/18.tex}
 	
 	\newpage
 	
-	\section{19} 
+	\section{Как обычно устроена рекомендательная система? Опишите шаги отбора кандидатов, ранжирования, переранжирования. Приведите примеры, как каждый из них может быть устроен} 
 	\input{TeX_files/19.tex}
 \end{document}

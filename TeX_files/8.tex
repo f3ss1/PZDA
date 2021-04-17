@@ -1,0 +1,23 @@
+\textbf{Теорема (о замене переменных):} \textit{Пусть даны $p_z(z)$ и $z = f(x)$, тогда $p_x(x)$ находится следующим образом:}
+
+\begin{equation}
+	p_x(x_i) = p_z(f(x_i)) \left|\det\frac{\partial f(x_i)}{\partial x_i}\right|
+	\label{eq:8_theor}
+\end{equation}
+
+\textit{где указан определитель матрицы первых производных, которая записывается как:}
+
+\begin{equation}
+	\frac{\partial f(x_i)}{\partial x_i} = 
+		\begin{pmatrix}
+			\dfrac{\partial f(x_i)_1}{\partial x_{i1}}& \dots & \dfrac{\partial f(x_i)_1}{\partial x_{in}} \\
+			\vdots & \ddots & \vdots \\
+			\dfrac{\partial f(x_i)_m}{\partial x_{i1}}& \dots & \dfrac{\partial f(x_i)_m}{\partial x_{in}} 
+		\end{pmatrix}
+\end{equation}
+
+Здесь $p_z(z)$ --- распределение $z$, $p_x(x)$ --- функция распределения $x$, $z = f(x)$ --- функция, переводящая $x$ в $z$.
+
+Если говорить на пальцах, то этот модуль определителя в \ref{eq:8_theor} --- отношение объема $\partial z$ к новому объему $\partial x$.
+
+Про матрицу первых производных: т.к. $x$, $z = f(x)$ --- некоторые многомерные векторы, то логично, что у них есть различные компоненты, индексы которых и указываются в матрице первых производных (то есть например левая верхняя компонента это производная первой компоненты $f(x_i)$ по первой компоненте $x_i$).
