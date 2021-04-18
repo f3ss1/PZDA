@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.9)  15 APR 2021 16:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.9)  18 APR 2021 16:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -626,7 +626,10 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-)
+
+(c:/texlive/2020/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
 Package hyperref Info: Option `unicode' set `true' on input line 21.
 Package hyperref Info: Option `colorlinks' set `true' on input line 21.
 
@@ -1164,81 +1167,328 @@ Overfull \hbox (0.85722pt too wide) in paragraph at lines 26--26
 ит каж- 
  []
 
-[2])
+[2]
+Overfull \hbox (4.49187pt too wide) in paragraph at lines 46--46
+ [] [][][]\T2A/cmr/bx/n/14.4 Какие вы зна-е-те мет-ри-ки ка-че-ства ре-ко-мен-д
+а-ций? Как мож- 
+ []
+
+[3]
+Overfull \hbox (18.17424pt too wide) in paragraph at lines 58--58
+ [] [][][]\T2A/cmr/bx/n/14.4 Перечислите ос-нов-ные спо-со-бы при-ме-не-ния АБ-
+тестирования[][] []  
+ []
+
+
+Overfull \hbox (24.9881pt too wide) in paragraph at lines 72--72
+ [] [][][]\T2A/cmr/bx/n/14.4 Почему не сто-ит оста-нав-ли-вать оста-нав-ли-вать
+ АБ-эксперимент 
+ []
+
+[4])
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
- [3] (./TeX_files/1.tex
-<Pictures//1_contentnotation.jpg, id=174, 1284.8pt x 330.23375pt>
+ [5] (./TeX_files/1.tex
+<Pictures//1_contentnotation.jpg, id=249, 1284.8pt x 330.23375pt>
 File: Pictures//1_contentnotation.jpg Graphic file (type jpg)
 <use Pictures//1_contentnotation.jpg>
 Package pdftex.def Info: Pictures//1_contentnotation.jpg  used on input line 20
 .
 (pdftex.def)             Requested size: 328.82706pt x 84.51837pt.
- [4 <./Pictures//1_contentnotation.jpg>] [5]
-<Pictures//1_finalloss.jpg, id=195, 1284.8pt x 547.04375pt>
+ [6 <./Pictures//1_contentnotation.jpg>] [7]
+<Pictures//1_finalloss.jpg, id=271, 1284.8pt x 547.04375pt>
 File: Pictures//1_finalloss.jpg Graphic file (type jpg)
 <use Pictures//1_finalloss.jpg>
 Package pdftex.def Info: Pictures//1_finalloss.jpg  used on input line 70.
 (pdftex.def)             Requested size: 328.82706pt x 140.00766pt.
 )
-[6 <./Pictures//1_finalloss.jpg>]
+[8 <./Pictures//1_finalloss.jpg>]
 Overfull \hbox (18.0492pt too wide) in paragraph at lines 143--143
 []\T2A/cmr/bx/n/20.74 Как мож-но сде-лать пе-ре-нос сти-ля бо-лее быст-
  []
 
-(./TeX_files/2.tex) [7] (./TeX_files/3.tex [8]) [9] (./TeX_files/4.tex)
-[10] (./TeX_files/5.tex
-<Pictures//5_reparameterization.png, id=221, 1673.50218pt x 816.80156pt>
+(./TeX_files/2.tex) [9] (./TeX_files/3.tex [10]) [11] (./TeX_files/4.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--2
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
+[12]
+<Pictures//VAE_loss.jpg, id=297, 1284.8pt x 529.98pt>
+File: Pictures//VAE_loss.jpg Graphic file (type jpg)
+<use Pictures//VAE_loss.jpg>
+Package pdftex.def Info: Pictures//VAE_loss.jpg  used on input line 13.
+(pdftex.def)             Requested size: 469.75499pt x 193.7686pt.
+) [13 <./Pictures//VAE_loss.jpg>] (./TeX_files/5.tex
+<Pictures//5_reparameterization.png, id=305, 1673.50218pt x 816.80156pt>
 File: Pictures//5_reparameterization.png Graphic file (type png)
 <use Pictures//5_reparameterization.png>
 Package pdftex.def Info: Pictures//5_reparameterization.png  used on input line
  7.
 (pdftex.def)             Requested size: 469.75499pt x 229.27618pt.
-) [11 <./Pictures//5_reparameterization.png>]
-(./TeX_files/6.tex) [12]
+) [14 <./Pictures//5_reparameterization.png>] (./TeX_files/6.tex
+Overfull \hbox (7.96149pt too wide) in paragraph at lines 1--2
+[]$\OML/cmm/m/it/14.4 L\OT1/cmr/m/n/14.4 (\OML/cmm/m/it/14.4 D; G\OT1/cmr/m/n/1
+4.4 ) = \OMS/cmsy/m/n/14.4 ^^@[] [] \OML/cmm/m/it/14.4 logD\OT1/cmr/m/n/14.4 (\
+OML/cmm/m/it/14.4 x[]\OT1/cmr/m/n/14.4 ) \OMS/cmsy/m/n/14.4 ^^@ [] [] \OML/cmm/
+m/it/14.4 log\OT1/cmr/m/n/14.4 (1 \OMS/cmsy/m/n/14.4 ^^@ \OML/cmm/m/it/14.4 D\O
+T1/cmr/m/n/14.4 (\OML/cmm/m/it/14.4 G\OT1/cmr/m/n/14.4 (\OML/cmm/m/it/14.4 z[]\
+OT1/cmr/m/n/14.4 ))) \OMS/cmsy/m/n/14.4 ! [] [] \OML/cmm/m/it/14.4 L\OT1/cmr/m/
+n/14.4 (\OML/cmm/m/it/14.4 D; G\OT1/cmr/m/n/14.4 )$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--2
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+[15]) [16]
 Overfull \hbox (3.81702pt too wide) in paragraph at lines 163--163
 []\T2A/cmr/bx/n/20.74 Что та-кое за-ту-ха-ние гра-ди-ен-тов в GAN? По-
  []
 
 (./TeX_files/7.tex
-<Pictures//7_problem.png, id=235, 1190.19656pt x 587.94656pt>
+<Pictures//7_problem.png, id=324, 1190.19656pt x 587.94656pt>
 File: Pictures//7_problem.png Graphic file (type png)
 <use Pictures//7_problem.png>
 Package pdftex.def Info: Pictures//7_problem.png  used on input line 22.
 (pdftex.def)             Requested size: 469.75499pt x 232.05243pt.
-) [13] [14 <./Pictures//7_problem.png>]
+) [17] [18 <./Pictures//7_problem.png>]
 Overfull \hbox (2.83716pt too wide) in paragraph at lines 168--168
 []\T2A/cmr/bx/n/20.74 Запишите тео-ре-му о за-мене пе-ре-мен-ных для
  []
 
-(./TeX_files/8.tex) [15]
+(./TeX_files/8.tex) [19]
 Overfull \hbox (21.91927pt too wide) in paragraph at lines 173--173
 []\T2A/cmr/bx/n/20.74 Запишите функ-цию пре-об-ра-зо-ва-ния для Real-
  []
 
-(./TeX_files/9.tex [16]) [17] (./TeX_files/10.tex) [18] (./TeX_files/11.tex)
-[19] (./TeX_files/12.tex
-<Pictures//12_trans.jpg, id=280, 901.3675pt x 592.2125pt>
+(./TeX_files/9.tex [20]) [21]
+Overfull \hbox (1.61716pt too wide) in paragraph at lines 178--178
+[]\T2A/cmr/bx/n/20.74 Что та-кое мел-спектрограмма? Как она по-
+ []
+
+(./TeX_files/10.tex
+<Pictures//melspec.jpg, id=357, 1284.8pt x 718.685pt>
+File: Pictures//melspec.jpg Graphic file (type jpg)
+<use Pictures//melspec.jpg>
+Package pdftex.def Info: Pictures//melspec.jpg  used on input line 3.
+(pdftex.def)             Requested size: 469.75499pt x 262.76198pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+
+ []
+
+[22 <./Pictures//melspec.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
+<Pictures//spec1.jpg, id=363, 1011.78pt x 855.195pt>
+File: Pictures//spec1.jpg Graphic file (type jpg)
+<use Pictures//spec1.jpg>
+Package pdftex.def Info: Pictures//spec1.jpg  used on input line 19.
+(pdftex.def)             Requested size: 469.75499pt x 397.06131pt.
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+
+ []
+
+
+Overfull \hbox (0.44974pt too wide) in paragraph at lines 24--25
+\T2A/cmr/m/n/14.4 хра-ним все 500 зна-че-ний ча-стот, хо-тя ча-сто там на-блю-д
+а-ет-ся пу-сто-та. Плюс,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
+
+ []
+
+[24 <./Pictures//spec1.jpg>]) [25] (./TeX_files/11.tex) [26]
+(./TeX_files/12.tex
+<Pictures//12_trans.jpg, id=387, 901.3675pt x 592.2125pt>
 File: Pictures//12_trans.jpg Graphic file (type jpg)
 <use Pictures//12_trans.jpg>
 Package pdftex.def Info: Pictures//12_trans.jpg  used on input line 14.
 (pdftex.def)             Requested size: 328.82706pt x 216.0428pt.
- [20 <./Pictures//12_trans.jpg>]) [21]
-(./TeX_files/13.tex) [22] (./TeX_files/14.tex) (./TeX_files/15.tex) [23]
-(./TeX_files/16.tex
-<Pictures//16_memory1.jpg, id=301, 1284.8pt x 909.3975pt>
+ [27 <./Pictures//12_trans.jpg>]) [28] (./TeX_files/13.tex
+<Pictures//13_2.png, id=398, 1171.37625pt x 393.47pt>
+File: Pictures//13_2.png Graphic file (type png)
+<use Pictures//13_2.png>
+Package pdftex.def Info: Pictures//13_2.png  used on input line 3.
+(pdftex.def)             Requested size: 469.75499pt x 157.79346pt.
+<Pictures//13_1.png, id=399, 1088.065pt x 428.60126pt>
+File: Pictures//13_1.png Graphic file (type png)
+<use Pictures//13_1.png>
+Package pdftex.def Info: Pictures//13_1.png  used on input line 15.
+(pdftex.def)             Requested size: 469.75499pt x 185.04703pt.
+
+[29 <./Pictures//13_2.png>] [30 <./Pictures//13_1.png>] [31]
+<Pictures//13_4.png, id=419, 394.47375pt x 393.47pt>
+File: Pictures//13_4.png Graphic file (type png)
+<use Pictures//13_4.png>
+Package pdftex.def Info: Pictures//13_4.png  used on input line 44.
+(pdftex.def)             Requested size: 234.87749pt x 234.27664pt.
+<Pictures//13_3.png, id=420, 700.6175pt x 563.10374pt>
+File: Pictures//13_3.png Graphic file (type png)
+<use Pictures//13_3.png>
+Package pdftex.def Info: Pictures//13_3.png  used on input line 45.
+(pdftex.def)             Requested size: 234.87749pt x 188.77196pt.
+
+Overfull \hbox (3.04218pt too wide) in paragraph at lines 44--47
+[][] []
+ []
+
+) [32 <./Pictures//13_4.png> <./Pictures//13_3.png>] (./TeX_files/14.tex)
+Overfull \hbox (5.20837pt too wide) in paragraph at lines 201--201
+\T2A/cmr/bx/n/20.74 ес-ли рей-тин-ги ве-ще-ствен-ные? Ес-ли рей-тин-
+ []
+
+(./TeX_files/15.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--2
+
+ []
+
+[33]
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+[34]
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+) [35] [36] (./TeX_files/16.tex
+Overfull \hbox (35.77284pt too wide) in paragraph at lines 1--2
+[]\T2A/cmr/m/n/14.4 Ссылка на ори-ги-наль-ный кон-спект: [][]$https : / / githu
+b . com / hse-[]ds / iad-[]applied-[]ds /
+ []
+
+<Pictures//16_memory1.jpg, id=446, 1284.8pt x 909.3975pt>
 File: Pictures//16_memory1.jpg Graphic file (type jpg)
 <use Pictures//16_memory1.jpg>
 Package pdftex.def Info: Pictures//16_memory1.jpg  used on input line 13.
 (pdftex.def)             Requested size: 328.82706pt x 232.74669pt.
-<Pictures//16_memory2.jpg, id=302, 1211.52625pt x 1284.8pt>
+[37]
+<Pictures//16_memory2.jpg, id=453, 1211.52625pt x 1284.8pt>
 File: Pictures//16_memory2.jpg Graphic file (type jpg)
 <use Pictures//16_memory2.jpg>
-Package pdftex.def Info: Pictures//16_memory2.jpg  used on input line 19.
+Package pdftex.def Info: Pictures//16_memory2.jpg  used on input line 37.
 (pdftex.def)             Requested size: 328.82706pt x 348.70425pt.
-) [24 <./Pictures//16_memory1.jpg>] [25 <./Pictures//16_memory2.jpg>] (./TeX_fi
-les/17.tex) [26] (./TeX_files/18.tex) [27]
+) [38 <./Pictures//16_memory1.jpg>] [39 <./Pictures//16_memory2.jpg>]
+(./TeX_files/17.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--2
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+[40]
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--17
+
+ []
+
+) [41] [42] (./TeX_files/18.tex) [43]
 Overfull \hbox (8.07948pt too wide) in paragraph at lines 221--221
 []\T2A/cmr/bx/n/20.74 Как обыч-но устро-е-на ре-ко-мен-да-тель-ная си-
  []
@@ -1248,7 +1498,7 @@ Overfull \hbox (5.4577pt too wide) in paragraph at lines 221--221
 \T2A/cmr/bx/n/20.74 ран-жи-ро-ва-ния, пе-ре-ран-жи-ро-ва-ния. При-ве-
  []
 
-(./TeX_files/19.tex [28]
+(./TeX_files/19.tex [44]
 Overfull \hbox (1.88553pt too wide) in paragraph at lines 14--15
 []\T2A/cmr/m/n/14.4 на ос-но-ве сход-ства: $\OML/cmm/m/it/14.4 p[]; q[]$ \T2A/c
 mr/m/n/14.4 - эм-бед-дин-ги (на-при-мер, из LFM). Ищем
@@ -1272,15 +1522,33 @@ Overfull \hbox (25.24199pt too wide) in paragraph at lines 23--24
 plied-[]ds / blob / master / 2020 / lectures /
  []
 
-) [29] (./main.aux)
+) [45] (./TeX_files/20.tex) [46]
+Overfull \hbox (55.36475pt too wide) in paragraph at lines 231--231
+\T2A/cmr/bx/n/20.74 поль-зо-ва-те-лей по вы-бор-кам в АБ-тестировании? 
+ []
 
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
+(./TeX_files/21.tex) [47] (./TeX_files/22.tex) [48] (./TeX_files/23.tex
+[49]) [50]
+Overfull \hbox (34.4694pt too wide) in paragraph at lines 246--246
+[]\T2A/cmr/bx/n/20.74 В ка-кие слу-ча-ях мож-но при-ме-нять t-критерий
+ []
 
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 8E9DE6EF4D4B1492E105D6AE17C520E9;9705
-(rerunfilecheck)             After:  A5B9E2D18C161CC29BE087FF3699CE98;9705.
+(./TeX_files/24.tex) [51]
+Overfull \hbox (18.17036pt too wide) in paragraph at lines 251--251
+[]\T2A/cmr/bx/n/20.74 Опишите ал-го-ритм ра-бо-ты кри-те-рия Манна-
+ []
+
+(./TeX_files/25.tex) [52] (./TeX_files/26.tex) [53] (./TeX_files/27.tex)
+[54] (./TeX_files/28.tex
+Overfull \hbox (28.0808pt too wide) in paragraph at lines 11--12
+[]\T2A/cmr/m/n/14.4 Теперь мож-но пе-рей-ти в мет-ри-ки, ко-то-рые с как та-ко-
+вым AB-тестированием
+ []
+
+[55]) [56] (./main.aux)
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 5126BBE08236F592C4AA7AE87F86C29E;22141.
+
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -1289,31 +1557,32 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21526 strings out of 479916
- 352493 string characters out of 5886648
- 1196702 words of memory out of 5000000
- 37664 multiletter control sequences out of 15000+600000
+ 21741 strings out of 479916
+ 355637 string characters out of 5886648
+ 1202351 words of memory out of 5000000
+ 37794 multiletter control sequences out of 15000+600000
  545701 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,9n,74p,1834b,4875s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{c:/tex
-live/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<c:/texlive/2020
+ 60i,9n,74p,2190b,4875s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}{c:/tex
+live/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2020
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2020/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2020/texmf-dist/fonts/
 type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmmi7.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmr10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
-2.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:
-/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb><c:/tex
-live/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2020/
-texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2020/texmf-dist
-/fonts/type1/public/cm-super/sfbx2074.pfb><c:/texlive/2020/texmf-dist/fonts/typ
-e1/public/cm-super/sfrm1440.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/
-cm-super/sfti1440.pfb>
-Output written on main.pdf (29 pages, 1976644 bytes).
+2.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/t
+exlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/20
+20/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb><c:/texlive/2020/t
+exmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2020/texmf-dist/
+fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2020/texmf-dist/fonts/type
+1/public/cm-super/sfbx2074.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/c
+m-super/sfrm1440.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sf
+ti1440.pfb>
+Output written on main.pdf (56 pages, 3599685 bytes).
 PDF statistics:
- 400 PDF objects out of 1000 (max. 8388607)
- 344 compressed objects within 4 object streams
- 78 named destinations out of 1000 (max. 500000)
- 252 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 623 PDF objects out of 1000 (max. 8388607)
+ 526 compressed objects within 6 object streams
+ 127 named destinations out of 1000 (max. 500000)
+ 359 words of extra memory for PDF output out of 10000 (max. 10000000)
 

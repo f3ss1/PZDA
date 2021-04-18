@@ -1,56 +1,74 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \babel@toc {russian}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1}Опишите две компоненты, из которых состоит perceptual loss (стилевую и контентную). Как можно использовать этот функционал, чтобы делать перенос стиля?}{4}{section.1}%
+\contentsline {section}{\numberline {1}Опишите две компоненты, из которых состоит perceptual loss (стилевую и контентную). Как можно использовать этот функционал, чтобы делать перенос стиля?}{6}{section.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.1}Content}{4}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.1}Content}{6}{subsection.1.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.2}Style}{5}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.2}Style}{7}{subsection.1.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}Как можно сделать перенос стиля более быстрым, если стилевое изображение известно и не будет меняться?}{7}{section.2}%
+\contentsline {section}{\numberline {2}Как можно сделать перенос стиля более быстрым, если стилевое изображение известно и не будет меняться?}{9}{section.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Что в вариационном автокодировщике выдают кодировщик и декодировщик?}{8}{section.3}%
+\contentsline {section}{\numberline {3}Что в вариационном автокодировщике выдают кодировщик и декодировщик?}{10}{section.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1}Кодировщик}{9}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.1}Кодировщик}{11}{subsection.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2}Декодировщик}{9}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.2}Декодировщик}{11}{subsection.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}4}{10}{section.4}%
+\contentsline {section}{\numberline {4}Как устроен функционал ошибки в вариационном автокодировщике? За что отвечает каждое из слагаемых?}{12}{section.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5}В чём состоит идея трюка репараметризации (reparametrization trick)?}{11}{section.5}%
+\contentsline {section}{\numberline {5}В чём состоит идея трюка репараметризации (reparametrization trick)?}{14}{section.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6}6}{12}{section.6}%
+\contentsline {section}{\numberline {6}Запишите функцию потерь GAN. Как в ней обозначается дискриминатор и генератор? Как она используется при обучении (ищем минимум, максимум или как-то еще)?}{15}{section.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7}Что такое затухание градиентов в GAN? Покажите это математически.}{13}{section.7}%
+\contentsline {section}{\numberline {7}Что такое затухание градиентов в GAN? Покажите это математически.}{17}{section.7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8}Запишите теорему о замене переменных для функции плотности распределения случайной величины. Что значит каждое обозначение в ней?}{15}{section.8}%
+\contentsline {section}{\numberline {8}Запишите теорему о замене переменных для функции плотности распределения случайной величины. Что значит каждое обозначение в ней?}{19}{section.8}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {9}Запишите функцию преобразования для Real-NVP нормализационного потока. Как посчитать ее Якобиан? Как выглядит обратная функция?}{16}{section.9}%
+\contentsline {section}{\numberline {9}Запишите функцию преобразования для Real-NVP нормализационного потока. Как посчитать ее Якобиан? Как выглядит обратная функция?}{20}{section.9}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.1}Функция преобразования}{16}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.1}Функция преобразования}{20}{subsection.9.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.2}Якобиан}{16}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.2}Якобиан}{20}{subsection.9.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.3}Обратная функция}{17}{subsection.9.3}%
+\contentsline {subsection}{\numberline {9.3}Обратная функция}{21}{subsection.9.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {10}10}{18}{section.10}%
+\contentsline {section}{\numberline {10}Что такое мел-спектрограмма? Как она получается из wav-файла?}{22}{section.10}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {11}11}{19}{section.11}%
+\contentsline {section}{\numberline {11}Какие метрики качества ASR вы знаете? Как они вычисляются?}{26}{section.11}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {12}Что такое MuLaw-кодирование, для чего оно нужно и как оно вычисляется?}{20}{section.12}%
+\contentsline {section}{\numberline {12}Что такое MuLaw-кодирование, для чего оно нужно и как оно вычисляется?}{27}{section.12}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13}13}{22}{section.13}%
+\contentsline {section}{\numberline {13}Как устроен WaveNet? Почему он медленно работает на этапе применения?}{29}{section.13}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {14}14}{23}{section.14}%
+\contentsline {section}{\numberline {14}Что является обучающей выборкой в задаче рекомендаций? Что такое рейтинг? Приведите примеры, как он может задаваться.}{33}{section.14}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15}15}{23}{section.15}%
+\contentsline {section}{\numberline {15}Какие вы знаете метрики качества рекомендаций? Как можно измерить ошибку, если рейтинги вещественные? Если рейтинги — это классы? Как учесть, что нам важен порядок, в котором задаются объекты? Как устроена метрика nDCG?}{34}{section.15}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {16}Как устроены user-based рекомендации?}{24}{section.16}%
+\contentsline {section}{\numberline {16}Как устроены user-based рекомендации?}{37}{section.16}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {17}17}{26}{section.17}%
+\contentsline {section}{\numberline {17}Что такое модель со скрытыми переменными (LFM)? Как в ней предсказывается рейтинг? Как устроен функционал, на который она обучается?}{40}{section.17}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {18}18}{27}{section.18}%
+\contentsline {section}{\numberline {18}Как устроена модель iALS?}{43}{section.18}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {19}Как обычно устроена рекомендательная система? Опишите шаги отбора кандидатов, ранжирования, переранжирования. Приведите примеры, как каждый из них может быть устроен}{28}{section.19}%
+\contentsline {section}{\numberline {19}Как обычно устроена рекомендательная система? Опишите шаги отбора кандидатов, ранжирования, переранжирования. Приведите примеры, как каждый из них может быть устроен}{44}{section.19}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {19.1}Отбор кандидатов}{28}{subsection.19.1}%
+\contentsline {subsection}{\numberline {19.1}Отбор кандидатов}{44}{subsection.19.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {20}Перечислите основные способы применения АБ-тестирования}{46}{section.20}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {21}Какие могут быть сложности в разбиении пользователей по выборкам в АБ-тестировании?}{47}{section.21}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {22}В чем отличия прямого и обратного эксперимента?}{48}{section.22}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {23}Как формулируются нулевая и альтернативная гипотезы при проверке значимости изменения метрики в эксперименте?}{49}{section.23}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {24}В какие случаях можно применять t-критерий Стьюдента?}{51}{section.24}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {25}Опишите алгоритм работы критерия Манна-Уинти}{52}{section.25}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {26}Что такое P-value?}{53}{section.26}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {27}Почему не стоит останавливать останавливать АБ-эксперимент (заведенный на 2 недели) через 2-3 дня, даже если метрики улучшились значимо?}{54}{section.27}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {28}Приведите пример иерархии метрик для рекомендательного блока товаров}{55}{section.28}%

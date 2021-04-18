@@ -1,4 +1,4 @@
-$L(D,G) = -\displaystyle\frac{1}{n}\sum\limit_{x_{i} \in X}log D(x_{i}) -\displaystyle\frac{1}{n}\sum\limit_{z_{i} \in Z}log(1 - D(G(z_{i}))) \rightarrow max\limits_{G}min\limits_{D}L(D,G)$ \\
+$L(D,G) = -\displaystyle\frac{1}{n}\sum\limits_{x_{i} \in X}log D(x_{i}) -\displaystyle\frac{1}{n}\sum\limits_{z_{i} \in Z}log(1 - D(G(z_{i}))) \rightarrow \min_{G} \max_{D} L(D,G) $ \\
 
 Здесь D -- дискриминатор, G -- генератор. В этой функции потерь мы отдельно считаем ошибку на реальных объектах ($x_{i}$) и сгенерированных объектах ($G(z_{i})$). Сначала мы хотим минимизировать этот функционал на дискриминаторе, хотим научить его лучше разделять объекты. Потом мы максимизируем функционал на параметрах генератора, то есть мы хотим сдвинуть ближе реальные и сгенерированные объекты. \\
 
